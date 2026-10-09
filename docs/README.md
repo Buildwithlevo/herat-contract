@@ -1,6 +1,6 @@
-# Credence Contracts — Documentation Index
+# herat-contract — Documentation Index
 
-This directory contains all design docs, API references, and operational guides for the Credence Soroban contracts.
+This directory contains all design docs, API references, and operational guides for the herat-contract Soroban workspace.
 
 ## Core Concepts
 
@@ -162,5 +162,5 @@ defined in [BUSINESS_HOURS.md](BUSINESS_HOURS.md).
 
 ## Quick Links
 
-- [Root README](../README.md) — Workspace overview, build/test commands
+- [Root README](../README.md) — herat-contract workspace overview, build/test commands
 - [CHANGELOG.md](../CHANGELOG.md) — Release history
